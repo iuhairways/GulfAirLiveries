@@ -1,0 +1,22 @@
+{
+	"aircrafts": {
+		"2879": {
+			"mode": 3,
+			"parts": [0],
+			"liveries": [{
+					"name": "Gulf air",
+					"texture": "https://i.ibb.co/TTGHHnp/image-15.jpg"
+				}
+			]
+		},
+        "3180": {
+            "mode": 0,
+            "parts" : [0],
+            "liveries": [
+                {
+                    "name": "ethiopian",
+                    "texture": "https://i.ibb.co/PDQxS8t/eth.jpg"
+                }
+            ]
+         }
+	}
