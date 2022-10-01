@@ -28,7 +28,7 @@ async function init(){
     //Load liveries
 
 
-    await fetch("https://raw.githubusercontent.com/iuhairways/GeoFS-addons/main/liverylist.json").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://raw.githubusercontent.com/iuhairways/GulfAirLiveries/main/list.json").then(res => res.json()).then(data => liveryobj = data)
 
 
     //remove original buttons
